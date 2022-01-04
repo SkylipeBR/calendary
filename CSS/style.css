@@ -116,3 +116,11 @@ table.month td.day .day-content:hover
     color: rgb(23, 104, 93);
     font-family: 'Dancing Script', cursive;
 }
+
+@media (max-width: 500px)
+{
+    .B h1
+    {
+        font-size: 4em;
+    }
+}
